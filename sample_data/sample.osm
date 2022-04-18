@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.6 (3880995 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.7136600" minlon="51.3774100" maxlat="35.7139400" maxlon="51.3780200"/>
+ <node id="904019928" visible="true" version="11" changeset="110169081" timestamp="2021-08-24T11:36:27Z" user="osmword" uid="12314223" lat="35.7188192" lon="51.3781045"/>
+ <node id="1506106551" visible="true" version="5" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7144321" lon="51.3776611"/>
+ <node id="1656064005" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7114670" lon="51.3778362"/>
+ <node id="1656064007" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7114675" lon="51.3778659"/>
+ <node id="1656064010" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7114731" lon="51.3778074"/>
+ <node id="1656064011" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7114744" lon="51.3778944"/>
+ <node id="1656064013" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7114852" lon="51.3777817"/>
+ <node id="1656064014" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7114874" lon="51.3779195"/>
+ <node id="1656064015" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7115026" lon="51.3777609"/>
+ <node id="1656064017" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7115053" lon="51.3779394"/>
+ <node id="1656064018" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7115238" lon="51.3777467"/>
+ <node id="1656064020" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7115270" lon="51.3779526"/>
+ <node id="1656064022" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7115473" lon="51.3777401"/>
+ <node id="1656064023" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7115507" lon="51.3779582"/>
+ <node id="1656064134" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7124855" lon="51.3779923"/>
+ <node id="1656064224" visible="true" version="5" changeset="110169081" timestamp="2021-08-24T11:36:27Z" user="osmword" uid="12314223" lat="35.7138092" lon="51.3777298"/>
+ <node id="1656064226" visible="true" version="4" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7136973" lon="51.3780616"/>
+ <node id="1656064234" visible="true" version="5" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7143907" lon="51.3781093"/>
+ <node id="1926859774" visible="true" version="6" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7160677" lon="51.3777845"/>
+ <node id="2784134590" visible="true" version="3" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7101176" lon="51.3776926"/>
+ <node id="2784134595" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7110577" lon="51.3775479"/>
+ <node id="2784134604" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7137420" lon="51.3776611"/>
+ <node id="2784134610" visible="true" version="3" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7150024" lon="51.3781385"/>
+ <node id="2784134617" visible="true" version="3" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7157710" lon="51.3781650"/>
+ <node id="2784134621" visible="true" version="3" changeset="110169081" timestamp="2021-08-24T11:36:27Z" user="osmword" uid="12314223" lat="35.7162078" lon="51.3781996"/>
+ <node id="2784134624" visible="true" version="3" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7172325" lon="51.3778477"/>
+ <node id="2784134627" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7178222" lon="51.3779099"/>
+ <node id="4171988945" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7104221" lon="51.3776873"/>
+ <node id="4171988952" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7100165" lon="51.3776907"/>
+ <node id="4171988954" visible="true" version="3" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7090346" lon="51.3776699"/>
+ <node id="4722620955" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7095158" lon="51.3776715"/>
+ <node id="8271284382" visible="true" version="2" changeset="110168921" timestamp="2021-08-24T11:33:59Z" user="osmword" uid="12314223" lat="35.7098893" lon="51.3776858"/>
+ <way id="152829221" visible="true" version="3" changeset="56212148" timestamp="2018-02-09T10:20:59Z" user="geoaria" uid="1858958">
+  <nd ref="1506106551"/>
+  <nd ref="1656064224"/>
+  <nd ref="1656064022"/>
+  <nd ref="1656064018"/>
+  <nd ref="1656064015"/>
+  <nd ref="1656064013"/>
+  <nd ref="1656064010"/>
+  <nd ref="1656064005"/>
+  <nd ref="1656064007"/>
+  <nd ref="1656064011"/>
+  <nd ref="1656064014"/>
+  <nd ref="1656064017"/>
+  <nd ref="1656064020"/>
+  <nd ref="1656064023"/>
+  <nd ref="1656064134"/>
+  <nd ref="1656064226"/>
+  <nd ref="1656064234"/>
+  <nd ref="2784134610"/>
+  <nd ref="2784134617"/>
+  <nd ref="2784134621"/>
+  <tag k="highway" v="trunk_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="398260891" visible="true" version="13" changeset="96621683" timestamp="2020-12-29T19:08:55Z" user="Mostafa Ahangarha" uid="3800783">
+  <nd ref="904019928"/>
+  <nd ref="2784134627"/>
+  <nd ref="2784134624"/>
+  <nd ref="1926859774"/>
+  <nd ref="1506106551"/>
+  <nd ref="2784134604"/>
+  <nd ref="2784134595"/>
+  <nd ref="4171988945"/>
+  <nd ref="2784134590"/>
+  <nd ref="4171988952"/>
+  <nd ref="8271284382"/>
+  <nd ref="4722620955"/>
+  <nd ref="4171988954"/>
+  <tag k="full_name" v="بزرگراه شهید مصطفی چمران"/>
+  <tag k="highway" v="trunk"/>
+  <tag k="name" v="بزرگراه چمران"/>
+  <tag k="name:en" v="Chamran Expressway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <relation id="10887141" visible="true" version="14" changeset="114576227" timestamp="2021-12-05T10:02:48Z" user="Nastaran_Sabouri" uid="10924444">
+  <member type="node" ref="4171988896" role="platform"/>
+  <member type="node" ref="4171941305" role="platform"/>
+  <member type="node" ref="4171941085" role="platform"/>
+  <member type="node" ref="4171941059" role="platform"/>
+  <member type="node" ref="3720016962" role="platform"/>
+  <member type="node" ref="4171988942" role="platform"/>
+  <member type="node" ref="4171988963" role="platform"/>
+  <member type="node" ref="4171988943" role="platform"/>
+  <member type="node" ref="5046822450" role="platform"/>
+  <member type="node" ref="4406716489" role="platform"/>
+  <member type="node" ref="4406716389" role="platform"/>
+  <member type="node" ref="4442671707" role="platform"/>
+  <member type="node" ref="4442667530" role="platform"/>
+  <member type="node" ref="4293099690" role="platform"/>
+  <member type="node" ref="3635094965" role="platform"/>
+  <member type="node" ref="4217432218" role="platform"/>
+  <member type="node" ref="3637089623" role="platform"/>
+  <member type="node" ref="4293083491" role="platform"/>
+  <member type="node" ref="4425269702" role="platform"/>
+  <member type="node" ref="4425268291" role="platform"/>
+  <member type="node" ref="5183222788" role="platform"/>
+  <member type="node" ref="6482535137" role="platform"/>
+  <member type="way" ref="689051247" role="forward"/>
+  <member type="way" ref="784055688" role="forward"/>
+  <member type="way" ref="398260891" role="forward"/>
+  <member type="way" ref="416457148" role="forward"/>
+  <member type="way" ref="977813242" role="forward"/>
+  <member type="way" ref="416452389" role="forward"/>
+  <member type="way" ref="712478980" role="forward"/>
+  <member type="way" ref="4298002" role=""/>
+  <member type="way" ref="764337436" role="forward"/>
+  <member type="way" ref="533996648" role="forward"/>
+  <member type="way" ref="723949359" role="forward"/>
+  <member type="way" ref="689753854" role="forward"/>
+  <member type="way" ref="200607282" role="forward"/>
+  <member type="way" ref="784055694" role="forward"/>
+  <member type="way" ref="102709186" role="forward"/>
+  <member type="way" ref="4832085" role="forward"/>
+  <member type="way" ref="102709192" role="forward"/>
+  <member type="way" ref="330642533" role="forward"/>
+  <member type="way" ref="358643798" role="forward"/>
+  <member type="way" ref="151277624" role="forward"/>
+  <member type="way" ref="151277626" role="forward"/>
+  <member type="way" ref="711329772" role="forward"/>
+  <member type="way" ref="784055697" role=""/>
+  <member type="way" ref="784055696" role=""/>
+  <member type="way" ref="784055700" role=""/>
+  <member type="way" ref="784055699" role=""/>
+  <member type="way" ref="784055702" role="forward"/>
+  <member type="way" ref="437329473" role="forward"/>
+  <member type="way" ref="784055703" role=""/>
+  <member type="way" ref="690076049" role="forward"/>
+  <member type="way" ref="416452399" role="forward"/>
+  <member type="way" ref="835570966" role="forward"/>
+  <member type="way" ref="878103016" role="forward"/>
+  <member type="way" ref="783765880" role="forward"/>
+  <member type="way" ref="879182329" role="forward"/>
+  <member type="way" ref="783765878" role="forward"/>
+  <member type="way" ref="783765877" role="forward"/>
+  <member type="way" ref="385708832" role="forward"/>
+  <tag k="from" v="پایانه شهید افشار"/>
+  <tag k="name" v="پایانه شهید افشار - پایانه جنوب"/>
+  <tag k="operator" v="شرکت واحد اتوبوسرانی تهران"/>
+  <tag k="ref" v="104"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="پایانه جنوب"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

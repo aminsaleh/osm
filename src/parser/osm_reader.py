@@ -1,6 +1,7 @@
 import xml.etree.cElementTree as ET
 from pathlib import Path
 from types import SimpleNamespace
+from loguru import logger
 
 from src.config import DATA_PATH
 
@@ -8,12 +9,20 @@ from src.config import DATA_PATH
 class Parser:
     def __init__(self, file_name='map.osm'):
         self.file_name = file_name
-        self.file_path = Path.joinpath(DATA_PATH, file_name)
+        if isinstance(file_name, Path):
+            self.file_path = file_name
+        else:
+            self.file_path = Path.joinpath(DATA_PATH, file_name)
         self._root = self._reader()
 
     def _reader(self):
-        tree = ET.parse(self.file_path)
-        return tree.getroot()
+        try:
+            tree = ET.parse(self.file_path)
+            logger.info(f'{self.file_name} parsed succesfully!')
+            return tree.getroot()
+        
+        except FileNotFoundError:
+            logger.exception(f'{self.file_name} not found!')
 
     def nodes(self):
         tag = 'node'
